@@ -1,0 +1,303 @@
+D:\RJ FILES\CoproProject\FormAndDatabase\SalesAndInventoryForm\SalesAndInventoryForm\bin\Debug\SalesAndInventoryForm.exe
+D:\RJ FILES\CoproProject\FormAndDatabase\SalesAndInventoryForm\SalesAndInventoryForm\bin\Debug\SalesAndInventoryForm.pdb
+D:\RJ FILES\CoproProject\FormAndDatabase\SalesAndInventoryForm\SalesAndInventoryForm\obj\Debug\ResolveAssemblyReference.cache
+D:\RJ FILES\CoproProject\FormAndDatabase\SalesAndInventoryForm\SalesAndInventoryForm\obj\Debug\WindowsFormsApplication1.Customer.resources
+D:\RJ FILES\CoproProject\FormAndDatabase\SalesAndInventoryForm\SalesAndInventoryForm\obj\Debug\WindowsFormsApplication1.Main.resources
+D:\RJ FILES\CoproProject\FormAndDatabase\SalesAndInventoryForm\SalesAndInventoryForm\obj\Debug\WindowsFormsApplication1.Orders.resources
+D:\RJ FILES\CoproProject\FormAndDatabase\SalesAndInventoryForm\SalesAndInventoryForm\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\RJ FILES\CoproProject\FormAndDatabase\SalesAndInventoryForm\SalesAndInventoryForm\obj\Debug\WindowsFormsApplication1.Sales.resources
+D:\RJ FILES\CoproProject\FormAndDatabase\SalesAndInventoryForm\SalesAndInventoryForm\obj\Debug\WindowsFormsApplication1.StockCard.resources
+D:\RJ FILES\CoproProject\FormAndDatabase\SalesAndInventoryForm\SalesAndInventoryForm\obj\Debug\WindowsFormsApplication1.summary.resources
+D:\RJ FILES\CoproProject\FormAndDatabase\SalesAndInventoryForm\SalesAndInventoryForm\obj\Debug\WindowsFormsApplication1.Supplier.resources
+D:\RJ FILES\CoproProject\FormAndDatabase\SalesAndInventoryForm\SalesAndInventoryForm\obj\Debug\SalesAndInventoryForm.csproj.GenerateResource.Cache
+D:\RJ FILES\CoproProject\FormAndDatabase\SalesAndInventoryForm\SalesAndInventoryForm\obj\Debug\SalesAndInventoryForm.exe
+D:\RJ FILES\CoproProject\FormAndDatabase\SalesAndInventoryForm\SalesAndInventoryForm\obj\Debug\SalesAndInventoryForm.pdb
+G:\ActivityCopro3\CoproProject\FormAndDatabase\SalesAndInventoryForm\SalesAndInventoryForm\obj\Debug\SalesAndInventoryForm.exe
+G:\ActivityCopro3\CoproProject\FormAndDatabase\SalesAndInventoryForm\SalesAndInventoryForm\obj\Debug\SalesAndInventoryForm.pdb
+G:\ActivityCopro3\CoproProject\FormAndDatabase\SalesAndInventoryForm\SalesAndInventoryForm\bin\Debug\SalesAndInventoryForm.exe
+G:\ActivityCopro3\CoproProject\FormAndDatabase\SalesAndInventoryForm\SalesAndInventoryForm\bin\Debug\SalesAndInventoryForm.pdb
+G:\ActivityCopro3\CoproProject\FormAndDatabase\SalesAndInventoryForm\SalesAndInventoryForm\obj\Debug\ResolveAssemblyReference.cache
+G:\ActivityCopro3\CoproProject\FormAndDatabase\SalesAndInventoryForm\SalesAndInventoryForm\obj\Debug\WindowsFormsApplication1.Main.resources
+G:\ActivityCopro3\CoproProject\FormAndDatabase\SalesAndInventoryForm\SalesAndInventoryForm\obj\Debug\WindowsFormsApplication1.Orders.resources
+G:\ActivityCopro3\CoproProject\FormAndDatabase\SalesAndInventoryForm\SalesAndInventoryForm\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+G:\ActivityCopro3\CoproProject\FormAndDatabase\SalesAndInventoryForm\SalesAndInventoryForm\obj\Debug\WindowsFormsApplication1.Sales.resources
+G:\ActivityCopro3\CoproProject\FormAndDatabase\SalesAndInventoryForm\SalesAndInventoryForm\obj\Debug\WindowsFormsApplication1.StockCard.resources
+G:\ActivityCopro3\CoproProject\FormAndDatabase\SalesAndInventoryForm\SalesAndInventoryForm\obj\Debug\WindowsFormsApplication1.Supplier.resources
+G:\ActivityCopro3\CoproProject\FormAndDatabase\SalesAndInventoryForm\SalesAndInventoryForm\obj\Debug\SalesAndInventoryForm.csproj.GenerateResource.Cache
+G:\ActivityCopro3\CoproProject\FormAndDatabase\SalesAndInventoryForm\SalesAndInventoryForm\obj\Debug\WindowsFormsApplication1.CustomerInformation.resources
+F:\ActivityCopro3\CoproProject\FormAndDatabase\SalesAndInventoryForm\SalesAndInventoryForm\obj\Debug\SalesAndInventoryForm.exe
+F:\ActivityCopro3\CoproProject\FormAndDatabase\SalesAndInventoryForm\SalesAndInventoryForm\obj\Debug\SalesAndInventoryForm.pdb
+F:\ActivityCopro3\CoproProject\FormAndDatabase\SalesAndInventoryForm\SalesAndInventoryForm\bin\Debug\SalesAndInventoryForm.exe
+F:\ActivityCopro3\CoproProject\FormAndDatabase\SalesAndInventoryForm\SalesAndInventoryForm\bin\Debug\SalesAndInventoryForm.pdb
+F:\ActivityCopro3\CoproProject\FormAndDatabase\SalesAndInventoryForm\SalesAndInventoryForm\obj\Debug\ResolveAssemblyReference.cache
+F:\ActivityCopro3\CoproProject\FormAndDatabase\SalesAndInventoryForm\SalesAndInventoryForm\obj\Debug\WindowsFormsApplication1.CustomerInformation.resources
+F:\ActivityCopro3\CoproProject\FormAndDatabase\SalesAndInventoryForm\SalesAndInventoryForm\obj\Debug\WindowsFormsApplication1.Main.resources
+F:\ActivityCopro3\CoproProject\FormAndDatabase\SalesAndInventoryForm\SalesAndInventoryForm\obj\Debug\WindowsFormsApplication1.Orders.resources
+F:\ActivityCopro3\CoproProject\FormAndDatabase\SalesAndInventoryForm\SalesAndInventoryForm\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+F:\ActivityCopro3\CoproProject\FormAndDatabase\SalesAndInventoryForm\SalesAndInventoryForm\obj\Debug\WindowsFormsApplication1.Sales.resources
+F:\ActivityCopro3\CoproProject\FormAndDatabase\SalesAndInventoryForm\SalesAndInventoryForm\obj\Debug\WindowsFormsApplication1.StockCard.resources
+F:\ActivityCopro3\CoproProject\FormAndDatabase\SalesAndInventoryForm\SalesAndInventoryForm\obj\Debug\WindowsFormsApplication1.Supplier.resources
+F:\ActivityCopro3\CoproProject\FormAndDatabase\SalesAndInventoryForm\SalesAndInventoryForm\obj\Debug\SalesAndInventoryForm.csproj.GenerateResource.Cache
+F:\ActivityCopro3\CoproProject\FormAndDatabase\SalesAndInventoryForm\SalesAndInventoryForm\obj\Debug\WindowsFormsApplication1.Admin.resources
+F:\ActivityCopro3\CoproProject\FormAndDatabase\SalesAndInventoryForm\SalesAndInventoryForm\obj\Debug\WindowsFormsApplication1.Item.resources
+F:\ActivityCopro3\CoproProject\FormAndDatabase\SalesAndInventoryForm\SalesAndInventoryForm\obj\Debug\WindowsFormsApplication1.UserLogin.resources
+F:\ActivityCopro3\CoproProject\FormAndDatabase\SalesAndInventoryForm\SalesAndInventoryForm\obj\Debug\WindowsFormsApplication1.adminpass.resources
+G:\ActivityCopro3\CoproProject\FormAndDatabase\SalesAndInventoryForm\SalesAndInventoryForm\obj\Debug\WindowsFormsApplication1.adminpass.resources
+G:\ActivityCopro3\CoproProject\FormAndDatabase\SalesAndInventoryForm\SalesAndInventoryForm\obj\Debug\WindowsFormsApplication1.Item.resources
+G:\ActivityCopro3\CoproProject\FormAndDatabase\SalesAndInventoryForm\SalesAndInventoryForm\obj\Debug\WindowsFormsApplication1.Admin.resources
+G:\ActivityCopro3\CoproProject\FormAndDatabase\SalesAndInventoryForm\SalesAndInventoryForm\obj\Debug\WindowsFormsApplication1.UserLogin.resources
+G:\ActivityCopro3\CoproProject\FormAndDatabase\SalesAndInventoryForm\SalesAndInventoryForm\obj\Debug\WindowsFormsApplication1.addcust.resources
+F:\ActivityCopro3\CoproProject\FormAndDatabase\SalesAndInventoryForm\SalesAndInventoryForm\obj\Debug\WindowsFormsApplication1.addcust.resources
+G:\ActivityCopro3\CoproProject\FormAndDatabase\SalesAndInventoryForm\SalesAndInventoryForm\obj\Debug\WindowsFormsApplication1.AddingSupplier.resources
+F:\ActivityCopro3\CoproProject\FormAndDatabase\SalesAndInventoryForm\SalesAndInventoryForm\obj\Debug\WindowsFormsApplication1.AddingSupplier.resources
+F:\ActivityCopro3\CoproProject\FormAndDatabase\SalesAndInventoryForm\SalesAndInventoryForm\obj\Debug\WindowsFormsApplication1.InventorySummary.resources
+H:\_\ActivityCopro3\CoproProject\FormAndDatabase\SalesAndInventoryForm\SalesAndInventoryForm\obj\Debug\SalesAndInventoryForm.exe
+H:\_\ActivityCopro3\CoproProject\FormAndDatabase\SalesAndInventoryForm\SalesAndInventoryForm\obj\Debug\SalesAndInventoryForm.pdb
+H:\_\ActivityCopro3\CoproProject\FormAndDatabase\SalesAndInventoryForm\SalesAndInventoryForm\bin\Debug\SalesAndInventoryForm.exe
+H:\_\ActivityCopro3\CoproProject\FormAndDatabase\SalesAndInventoryForm\SalesAndInventoryForm\bin\Debug\SalesAndInventoryForm.pdb
+H:\_\ActivityCopro3\CoproProject\FormAndDatabase\SalesAndInventoryForm\SalesAndInventoryForm\obj\Debug\ResolveAssemblyReference.cache
+H:\_\ActivityCopro3\CoproProject\FormAndDatabase\SalesAndInventoryForm\SalesAndInventoryForm\obj\Debug\WindowsFormsApplication1.addcust.resources
+H:\_\ActivityCopro3\CoproProject\FormAndDatabase\SalesAndInventoryForm\SalesAndInventoryForm\obj\Debug\WindowsFormsApplication1.AddingSupplier.resources
+H:\_\ActivityCopro3\CoproProject\FormAndDatabase\SalesAndInventoryForm\SalesAndInventoryForm\obj\Debug\WindowsFormsApplication1.adminpass.resources
+H:\_\ActivityCopro3\CoproProject\FormAndDatabase\SalesAndInventoryForm\SalesAndInventoryForm\obj\Debug\WindowsFormsApplication1.CustomerInformation.resources
+H:\_\ActivityCopro3\CoproProject\FormAndDatabase\SalesAndInventoryForm\SalesAndInventoryForm\obj\Debug\WindowsFormsApplication1.Item.resources
+H:\_\ActivityCopro3\CoproProject\FormAndDatabase\SalesAndInventoryForm\SalesAndInventoryForm\obj\Debug\WindowsFormsApplication1.Main.resources
+H:\_\ActivityCopro3\CoproProject\FormAndDatabase\SalesAndInventoryForm\SalesAndInventoryForm\obj\Debug\WindowsFormsApplication1.Orders.resources
+H:\_\ActivityCopro3\CoproProject\FormAndDatabase\SalesAndInventoryForm\SalesAndInventoryForm\obj\Debug\WindowsFormsApplication1.Admin.resources
+H:\_\ActivityCopro3\CoproProject\FormAndDatabase\SalesAndInventoryForm\SalesAndInventoryForm\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+H:\_\ActivityCopro3\CoproProject\FormAndDatabase\SalesAndInventoryForm\SalesAndInventoryForm\obj\Debug\WindowsFormsApplication1.Sales.resources
+H:\_\ActivityCopro3\CoproProject\FormAndDatabase\SalesAndInventoryForm\SalesAndInventoryForm\obj\Debug\WindowsFormsApplication1.StockCard.resources
+H:\_\ActivityCopro3\CoproProject\FormAndDatabase\SalesAndInventoryForm\SalesAndInventoryForm\obj\Debug\WindowsFormsApplication1.InventorySummary.resources
+H:\_\ActivityCopro3\CoproProject\FormAndDatabase\SalesAndInventoryForm\SalesAndInventoryForm\obj\Debug\WindowsFormsApplication1.Supplier.resources
+H:\_\ActivityCopro3\CoproProject\FormAndDatabase\SalesAndInventoryForm\SalesAndInventoryForm\obj\Debug\WindowsFormsApplication1.UserLogin.resources
+H:\_\ActivityCopro3\CoproProject\FormAndDatabase\SalesAndInventoryForm\SalesAndInventoryForm\obj\Debug\SalesAndInventoryForm.csproj.GenerateResource.Cache
+H:\ActivityCopro3\CoproProject\FormAndDatabase\SalesAndInventoryForm\SalesAndInventoryForm\obj\Debug\SalesAndInventoryForm.exe
+H:\ActivityCopro3\CoproProject\FormAndDatabase\SalesAndInventoryForm\SalesAndInventoryForm\obj\Debug\SalesAndInventoryForm.pdb
+G:\ActivityCopro3\CoproProject\FormAndDatabase\SalesAndInventoryForm\SalesAndInventoryForm\obj\Debug\WindowsFormsApplication1.InventorySummary.resources
+F:\CoproProject\FormAndDatabase\SalesAndInventoryForm\SalesAndInventoryForm\obj\Debug\SalesAndInventoryForm.exe
+F:\CoproProject\FormAndDatabase\SalesAndInventoryForm\SalesAndInventoryForm\obj\Debug\SalesAndInventoryForm.pdb
+G:\Copro-3-Project\Copro 3 Project\FormAndDatabase\SalesAndInventoryForm\SalesAndInventoryForm\obj\Debug\SalesAndInventoryForm.exe
+G:\Copro-3-Project\Copro 3 Project\FormAndDatabase\SalesAndInventoryForm\SalesAndInventoryForm\obj\Debug\SalesAndInventoryForm.pdb
+G:\Copro-3-Project\Copro 3 Project\FormAndDatabase\SalesAndInventoryForm\SalesAndInventoryForm\bin\Debug\SalesAndInventoryForm.exe
+G:\Copro-3-Project\Copro 3 Project\FormAndDatabase\SalesAndInventoryForm\SalesAndInventoryForm\bin\Debug\SalesAndInventoryForm.pdb
+G:\Copro-3-Project\Copro 3 Project\FormAndDatabase\SalesAndInventoryForm\SalesAndInventoryForm\obj\Debug\ResolveAssemblyReference.cache
+G:\Copro-3-Project\Copro 3 Project\FormAndDatabase\SalesAndInventoryForm\SalesAndInventoryForm\obj\Debug\WindowsFormsApplication1.addcust.resources
+G:\Copro-3-Project\Copro 3 Project\FormAndDatabase\SalesAndInventoryForm\SalesAndInventoryForm\obj\Debug\WindowsFormsApplication1.AddingSupplier.resources
+G:\Copro-3-Project\Copro 3 Project\FormAndDatabase\SalesAndInventoryForm\SalesAndInventoryForm\obj\Debug\WindowsFormsApplication1.adminpass.resources
+G:\Copro-3-Project\Copro 3 Project\FormAndDatabase\SalesAndInventoryForm\SalesAndInventoryForm\obj\Debug\WindowsFormsApplication1.CustomerInformation.resources
+G:\Copro-3-Project\Copro 3 Project\FormAndDatabase\SalesAndInventoryForm\SalesAndInventoryForm\obj\Debug\WindowsFormsApplication1.Item.resources
+G:\Copro-3-Project\Copro 3 Project\FormAndDatabase\SalesAndInventoryForm\SalesAndInventoryForm\obj\Debug\WindowsFormsApplication1.Main.resources
+G:\Copro-3-Project\Copro 3 Project\FormAndDatabase\SalesAndInventoryForm\SalesAndInventoryForm\obj\Debug\WindowsFormsApplication1.Orders.resources
+G:\Copro-3-Project\Copro 3 Project\FormAndDatabase\SalesAndInventoryForm\SalesAndInventoryForm\obj\Debug\WindowsFormsApplication1.Admin.resources
+G:\Copro-3-Project\Copro 3 Project\FormAndDatabase\SalesAndInventoryForm\SalesAndInventoryForm\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+G:\Copro-3-Project\Copro 3 Project\FormAndDatabase\SalesAndInventoryForm\SalesAndInventoryForm\obj\Debug\WindowsFormsApplication1.Sales.resources
+G:\Copro-3-Project\Copro 3 Project\FormAndDatabase\SalesAndInventoryForm\SalesAndInventoryForm\obj\Debug\WindowsFormsApplication1.StockCard.resources
+G:\Copro-3-Project\Copro 3 Project\FormAndDatabase\SalesAndInventoryForm\SalesAndInventoryForm\obj\Debug\WindowsFormsApplication1.InventorySummary.resources
+G:\Copro-3-Project\Copro 3 Project\FormAndDatabase\SalesAndInventoryForm\SalesAndInventoryForm\obj\Debug\WindowsFormsApplication1.Supplier.resources
+G:\Copro-3-Project\Copro 3 Project\FormAndDatabase\SalesAndInventoryForm\SalesAndInventoryForm\obj\Debug\WindowsFormsApplication1.UserLogin.resources
+G:\Copro-3-Project\Copro 3 Project\FormAndDatabase\SalesAndInventoryForm\SalesAndInventoryForm\obj\Debug\SalesAndInventoryForm.csproj.GenerateResource.Cache
+H:\ \Copro-3-Project\Copro 3 Project\FormAndDatabase\SalesAndInventoryForm\SalesAndInventoryForm\obj\Debug\SalesAndInventoryForm.exe
+H:\ \Copro-3-Project\Copro 3 Project\FormAndDatabase\SalesAndInventoryForm\SalesAndInventoryForm\obj\Debug\SalesAndInventoryForm.pdb
+G:\ \Copro-3-Project\Copro 3 Project\FormAndDatabase\SalesAndInventoryForm\SalesAndInventoryForm\obj\Debug\SalesAndInventoryForm.exe
+G:\ \Copro-3-Project\Copro 3 Project\FormAndDatabase\SalesAndInventoryForm\SalesAndInventoryForm\obj\Debug\SalesAndInventoryForm.pdb
+G:\ \Copro-3-Project\Copro 3 Project\FormAndDatabase\SalesAndInventoryForm\SalesAndInventoryForm\bin\Debug\SalesAndInventoryForm.exe
+G:\ \Copro-3-Project\Copro 3 Project\FormAndDatabase\SalesAndInventoryForm\SalesAndInventoryForm\bin\Debug\SalesAndInventoryForm.pdb
+G:\ \Copro-3-Project\Copro 3 Project\FormAndDatabase\SalesAndInventoryForm\SalesAndInventoryForm\obj\Debug\ResolveAssemblyReference.cache
+G:\ \Copro-3-Project\Copro 3 Project\FormAndDatabase\SalesAndInventoryForm\SalesAndInventoryForm\obj\Debug\WindowsFormsApplication1.addcust.resources
+G:\ \Copro-3-Project\Copro 3 Project\FormAndDatabase\SalesAndInventoryForm\SalesAndInventoryForm\obj\Debug\WindowsFormsApplication1.AddingSupplier.resources
+G:\ \Copro-3-Project\Copro 3 Project\FormAndDatabase\SalesAndInventoryForm\SalesAndInventoryForm\obj\Debug\WindowsFormsApplication1.adminpass.resources
+G:\ \Copro-3-Project\Copro 3 Project\FormAndDatabase\SalesAndInventoryForm\SalesAndInventoryForm\obj\Debug\WindowsFormsApplication1.CustomerInformation.resources
+G:\ \Copro-3-Project\Copro 3 Project\FormAndDatabase\SalesAndInventoryForm\SalesAndInventoryForm\obj\Debug\WindowsFormsApplication1.Item.resources
+G:\ \Copro-3-Project\Copro 3 Project\FormAndDatabase\SalesAndInventoryForm\SalesAndInventoryForm\obj\Debug\WindowsFormsApplication1.Main.resources
+G:\ \Copro-3-Project\Copro 3 Project\FormAndDatabase\SalesAndInventoryForm\SalesAndInventoryForm\obj\Debug\WindowsFormsApplication1.Orders.resources
+G:\ \Copro-3-Project\Copro 3 Project\FormAndDatabase\SalesAndInventoryForm\SalesAndInventoryForm\obj\Debug\WindowsFormsApplication1.Admin.resources
+G:\ \Copro-3-Project\Copro 3 Project\FormAndDatabase\SalesAndInventoryForm\SalesAndInventoryForm\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+G:\ \Copro-3-Project\Copro 3 Project\FormAndDatabase\SalesAndInventoryForm\SalesAndInventoryForm\obj\Debug\WindowsFormsApplication1.Sales.resources
+G:\ \Copro-3-Project\Copro 3 Project\FormAndDatabase\SalesAndInventoryForm\SalesAndInventoryForm\obj\Debug\WindowsFormsApplication1.StockCard.resources
+G:\ \Copro-3-Project\Copro 3 Project\FormAndDatabase\SalesAndInventoryForm\SalesAndInventoryForm\obj\Debug\WindowsFormsApplication1.InventorySummary.resources
+G:\ \Copro-3-Project\Copro 3 Project\FormAndDatabase\SalesAndInventoryForm\SalesAndInventoryForm\obj\Debug\WindowsFormsApplication1.Supplier.resources
+G:\ \Copro-3-Project\Copro 3 Project\FormAndDatabase\SalesAndInventoryForm\SalesAndInventoryForm\obj\Debug\WindowsFormsApplication1.UserLogin.resources
+G:\ \Copro-3-Project\Copro 3 Project\FormAndDatabase\SalesAndInventoryForm\SalesAndInventoryForm\obj\Debug\SalesAndInventoryForm.csproj.GenerateResource.Cache
+G:\Copro 3 Project\FormAndDatabase\SalesAndInventoryForm\SalesAndInventoryForm\obj\Debug\SalesAndInventoryForm.exe
+G:\Copro 3 Project\FormAndDatabase\SalesAndInventoryForm\SalesAndInventoryForm\obj\Debug\SalesAndInventoryForm.pdb
+G:\Copro 3 Project\FormAndDatabase\SalesAndInventoryForm\SalesAndInventoryForm\bin\Debug\SalesAndInventoryForm.exe
+G:\Copro 3 Project\FormAndDatabase\SalesAndInventoryForm\SalesAndInventoryForm\bin\Debug\SalesAndInventoryForm.pdb
+G:\Copro 3 Project\FormAndDatabase\SalesAndInventoryForm\SalesAndInventoryForm\obj\Debug\ResolveAssemblyReference.cache
+G:\Copro 3 Project\FormAndDatabase\SalesAndInventoryForm\SalesAndInventoryForm\obj\Debug\WindowsFormsApplication1.addcust.resources
+G:\Copro 3 Project\FormAndDatabase\SalesAndInventoryForm\SalesAndInventoryForm\obj\Debug\WindowsFormsApplication1.AddingSupplier.resources
+G:\Copro 3 Project\FormAndDatabase\SalesAndInventoryForm\SalesAndInventoryForm\obj\Debug\WindowsFormsApplication1.adminpass.resources
+G:\Copro 3 Project\FormAndDatabase\SalesAndInventoryForm\SalesAndInventoryForm\obj\Debug\WindowsFormsApplication1.CustomerInformation.resources
+G:\Copro 3 Project\FormAndDatabase\SalesAndInventoryForm\SalesAndInventoryForm\obj\Debug\WindowsFormsApplication1.Item.resources
+G:\Copro 3 Project\FormAndDatabase\SalesAndInventoryForm\SalesAndInventoryForm\obj\Debug\WindowsFormsApplication1.Main.resources
+G:\Copro 3 Project\FormAndDatabase\SalesAndInventoryForm\SalesAndInventoryForm\obj\Debug\WindowsFormsApplication1.Orders.resources
+G:\Copro 3 Project\FormAndDatabase\SalesAndInventoryForm\SalesAndInventoryForm\obj\Debug\WindowsFormsApplication1.Admin.resources
+G:\Copro 3 Project\FormAndDatabase\SalesAndInventoryForm\SalesAndInventoryForm\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+G:\Copro 3 Project\FormAndDatabase\SalesAndInventoryForm\SalesAndInventoryForm\obj\Debug\WindowsFormsApplication1.Sales.resources
+G:\Copro 3 Project\FormAndDatabase\SalesAndInventoryForm\SalesAndInventoryForm\obj\Debug\WindowsFormsApplication1.StockCard.resources
+G:\Copro 3 Project\FormAndDatabase\SalesAndInventoryForm\SalesAndInventoryForm\obj\Debug\WindowsFormsApplication1.InventorySummary.resources
+G:\Copro 3 Project\FormAndDatabase\SalesAndInventoryForm\SalesAndInventoryForm\obj\Debug\WindowsFormsApplication1.Supplier.resources
+G:\Copro 3 Project\FormAndDatabase\SalesAndInventoryForm\SalesAndInventoryForm\obj\Debug\WindowsFormsApplication1.UserLogin.resources
+G:\Copro 3 Project\FormAndDatabase\SalesAndInventoryForm\SalesAndInventoryForm\obj\Debug\SalesAndInventoryForm.csproj.GenerateResource.Cache
+G:\Copro 3 Project\FormAndDatabase\SalesAndInventoryForm\SalesAndInventoryForm\obj\Debug\WindowsFormsApplication1.Reports.resources
+F:\Copro 3 Project\FormAndDatabase\SalesAndInventoryForm\SalesAndInventoryForm\obj\Debug\SalesAndInventoryForm.exe
+F:\Copro 3 Project\FormAndDatabase\SalesAndInventoryForm\SalesAndInventoryForm\obj\Debug\SalesAndInventoryForm.pdb
+F:\Copro 3 Project\FormAndDatabase\SalesAndInventoryForm\SalesAndInventoryForm\bin\Debug\SalesAndInventoryForm.exe
+F:\Copro 3 Project\FormAndDatabase\SalesAndInventoryForm\SalesAndInventoryForm\bin\Debug\SalesAndInventoryForm.pdb
+F:\Copro 3 Project\FormAndDatabase\SalesAndInventoryForm\SalesAndInventoryForm\obj\Debug\ResolveAssemblyReference.cache
+F:\Copro 3 Project\FormAndDatabase\SalesAndInventoryForm\SalesAndInventoryForm\obj\Debug\WindowsFormsApplication1.addcust.resources
+F:\Copro 3 Project\FormAndDatabase\SalesAndInventoryForm\SalesAndInventoryForm\obj\Debug\WindowsFormsApplication1.AddingSupplier.resources
+F:\Copro 3 Project\FormAndDatabase\SalesAndInventoryForm\SalesAndInventoryForm\obj\Debug\WindowsFormsApplication1.adminpass.resources
+F:\Copro 3 Project\FormAndDatabase\SalesAndInventoryForm\SalesAndInventoryForm\obj\Debug\WindowsFormsApplication1.CustomerInformation.resources
+F:\Copro 3 Project\FormAndDatabase\SalesAndInventoryForm\SalesAndInventoryForm\obj\Debug\WindowsFormsApplication1.Item.resources
+F:\Copro 3 Project\FormAndDatabase\SalesAndInventoryForm\SalesAndInventoryForm\obj\Debug\WindowsFormsApplication1.Main.resources
+F:\Copro 3 Project\FormAndDatabase\SalesAndInventoryForm\SalesAndInventoryForm\obj\Debug\WindowsFormsApplication1.Orders.resources
+F:\Copro 3 Project\FormAndDatabase\SalesAndInventoryForm\SalesAndInventoryForm\obj\Debug\WindowsFormsApplication1.Admin.resources
+F:\Copro 3 Project\FormAndDatabase\SalesAndInventoryForm\SalesAndInventoryForm\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+F:\Copro 3 Project\FormAndDatabase\SalesAndInventoryForm\SalesAndInventoryForm\obj\Debug\WindowsFormsApplication1.Reports.resources
+F:\Copro 3 Project\FormAndDatabase\SalesAndInventoryForm\SalesAndInventoryForm\obj\Debug\WindowsFormsApplication1.Sales.resources
+F:\Copro 3 Project\FormAndDatabase\SalesAndInventoryForm\SalesAndInventoryForm\obj\Debug\WindowsFormsApplication1.StockCard.resources
+F:\Copro 3 Project\FormAndDatabase\SalesAndInventoryForm\SalesAndInventoryForm\obj\Debug\WindowsFormsApplication1.InventorySummary.resources
+F:\Copro 3 Project\FormAndDatabase\SalesAndInventoryForm\SalesAndInventoryForm\obj\Debug\WindowsFormsApplication1.Supplier.resources
+F:\Copro 3 Project\FormAndDatabase\SalesAndInventoryForm\SalesAndInventoryForm\obj\Debug\WindowsFormsApplication1.UserLogin.resources
+F:\Copro 3 Project\FormAndDatabase\SalesAndInventoryForm\SalesAndInventoryForm\obj\Debug\SalesAndInventoryForm.csproj.GenerateResource.Cache
+F:\ \Copro 3 Project\FormAndDatabase\SalesAndInventoryForm\SalesAndInventoryForm\obj\Debug\SalesAndInventoryForm.exe
+F:\ \Copro 3 Project\FormAndDatabase\SalesAndInventoryForm\SalesAndInventoryForm\obj\Debug\SalesAndInventoryForm.pdb
+F:\ \Copro 3 Project\FormAndDatabase\SalesAndInventoryForm\SalesAndInventoryForm\bin\Debug\SalesAndInventoryForm.exe
+F:\ \Copro 3 Project\FormAndDatabase\SalesAndInventoryForm\SalesAndInventoryForm\bin\Debug\SalesAndInventoryForm.pdb
+F:\ \Copro 3 Project\FormAndDatabase\SalesAndInventoryForm\SalesAndInventoryForm\obj\Debug\ResolveAssemblyReference.cache
+F:\ \Copro 3 Project\FormAndDatabase\SalesAndInventoryForm\SalesAndInventoryForm\obj\Debug\WindowsFormsApplication1.addcust.resources
+F:\ \Copro 3 Project\FormAndDatabase\SalesAndInventoryForm\SalesAndInventoryForm\obj\Debug\WindowsFormsApplication1.AddingSupplier.resources
+F:\ \Copro 3 Project\FormAndDatabase\SalesAndInventoryForm\SalesAndInventoryForm\obj\Debug\WindowsFormsApplication1.adminpass.resources
+F:\ \Copro 3 Project\FormAndDatabase\SalesAndInventoryForm\SalesAndInventoryForm\obj\Debug\WindowsFormsApplication1.CustomerInformation.resources
+F:\ \Copro 3 Project\FormAndDatabase\SalesAndInventoryForm\SalesAndInventoryForm\obj\Debug\WindowsFormsApplication1.Item.resources
+F:\ \Copro 3 Project\FormAndDatabase\SalesAndInventoryForm\SalesAndInventoryForm\obj\Debug\WindowsFormsApplication1.Main.resources
+F:\ \Copro 3 Project\FormAndDatabase\SalesAndInventoryForm\SalesAndInventoryForm\obj\Debug\WindowsFormsApplication1.Orders.resources
+F:\ \Copro 3 Project\FormAndDatabase\SalesAndInventoryForm\SalesAndInventoryForm\obj\Debug\WindowsFormsApplication1.Admin.resources
+F:\ \Copro 3 Project\FormAndDatabase\SalesAndInventoryForm\SalesAndInventoryForm\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+F:\ \Copro 3 Project\FormAndDatabase\SalesAndInventoryForm\SalesAndInventoryForm\obj\Debug\WindowsFormsApplication1.Reports.resources
+F:\ \Copro 3 Project\FormAndDatabase\SalesAndInventoryForm\SalesAndInventoryForm\obj\Debug\WindowsFormsApplication1.Sales.resources
+F:\ \Copro 3 Project\FormAndDatabase\SalesAndInventoryForm\SalesAndInventoryForm\obj\Debug\WindowsFormsApplication1.StockCard.resources
+F:\ \Copro 3 Project\FormAndDatabase\SalesAndInventoryForm\SalesAndInventoryForm\obj\Debug\WindowsFormsApplication1.InventorySummary.resources
+F:\ \Copro 3 Project\FormAndDatabase\SalesAndInventoryForm\SalesAndInventoryForm\obj\Debug\WindowsFormsApplication1.Supplier.resources
+F:\ \Copro 3 Project\FormAndDatabase\SalesAndInventoryForm\SalesAndInventoryForm\obj\Debug\WindowsFormsApplication1.UserLogin.resources
+F:\ \Copro 3 Project\FormAndDatabase\SalesAndInventoryForm\SalesAndInventoryForm\obj\Debug\SalesAndInventoryForm.csproj.GenerateResource.Cache
+H:\ \Copro 3 Project\FormAndDatabase\SalesAndInventoryForm\SalesAndInventoryForm\obj\Debug\SalesAndInventoryForm.exe
+H:\ \Copro 3 Project\FormAndDatabase\SalesAndInventoryForm\SalesAndInventoryForm\obj\Debug\SalesAndInventoryForm.pdb
+F:\My Files\Copro 3 Project\FormAndDatabase\SalesAndInventoryForm\SalesAndInventoryForm\obj\Debug\SalesAndInventoryForm.exe
+F:\My Files\Copro 3 Project\FormAndDatabase\SalesAndInventoryForm\SalesAndInventoryForm\obj\Debug\SalesAndInventoryForm.pdb
+F:\My Files\Copro 3 Project\FormAndDatabase\SalesAndInventoryForm\SalesAndInventoryForm\bin\Debug\SalesAndInventoryForm.exe
+F:\My Files\Copro 3 Project\FormAndDatabase\SalesAndInventoryForm\SalesAndInventoryForm\bin\Debug\SalesAndInventoryForm.pdb
+F:\My Files\Copro 3 Project\FormAndDatabase\SalesAndInventoryForm\SalesAndInventoryForm\obj\Debug\ResolveAssemblyReference.cache
+F:\My Files\Copro 3 Project\FormAndDatabase\SalesAndInventoryForm\SalesAndInventoryForm\obj\Debug\WindowsFormsApplication1.addcust.resources
+F:\My Files\Copro 3 Project\FormAndDatabase\SalesAndInventoryForm\SalesAndInventoryForm\obj\Debug\WindowsFormsApplication1.AddingSupplier.resources
+F:\My Files\Copro 3 Project\FormAndDatabase\SalesAndInventoryForm\SalesAndInventoryForm\obj\Debug\WindowsFormsApplication1.adminpass.resources
+F:\My Files\Copro 3 Project\FormAndDatabase\SalesAndInventoryForm\SalesAndInventoryForm\obj\Debug\WindowsFormsApplication1.CustomerInformation.resources
+F:\My Files\Copro 3 Project\FormAndDatabase\SalesAndInventoryForm\SalesAndInventoryForm\obj\Debug\WindowsFormsApplication1.Item.resources
+F:\My Files\Copro 3 Project\FormAndDatabase\SalesAndInventoryForm\SalesAndInventoryForm\obj\Debug\WindowsFormsApplication1.Main.resources
+F:\My Files\Copro 3 Project\FormAndDatabase\SalesAndInventoryForm\SalesAndInventoryForm\obj\Debug\WindowsFormsApplication1.Orders.resources
+F:\My Files\Copro 3 Project\FormAndDatabase\SalesAndInventoryForm\SalesAndInventoryForm\obj\Debug\WindowsFormsApplication1.Admin.resources
+F:\My Files\Copro 3 Project\FormAndDatabase\SalesAndInventoryForm\SalesAndInventoryForm\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+F:\My Files\Copro 3 Project\FormAndDatabase\SalesAndInventoryForm\SalesAndInventoryForm\obj\Debug\WindowsFormsApplication1.Reports.resources
+F:\My Files\Copro 3 Project\FormAndDatabase\SalesAndInventoryForm\SalesAndInventoryForm\obj\Debug\WindowsFormsApplication1.Sales.resources
+F:\My Files\Copro 3 Project\FormAndDatabase\SalesAndInventoryForm\SalesAndInventoryForm\obj\Debug\WindowsFormsApplication1.StockCard.resources
+F:\My Files\Copro 3 Project\FormAndDatabase\SalesAndInventoryForm\SalesAndInventoryForm\obj\Debug\WindowsFormsApplication1.InventorySummary.resources
+F:\My Files\Copro 3 Project\FormAndDatabase\SalesAndInventoryForm\SalesAndInventoryForm\obj\Debug\WindowsFormsApplication1.Supplier.resources
+F:\My Files\Copro 3 Project\FormAndDatabase\SalesAndInventoryForm\SalesAndInventoryForm\obj\Debug\WindowsFormsApplication1.UserLogin.resources
+F:\My Files\Copro 3 Project\FormAndDatabase\SalesAndInventoryForm\SalesAndInventoryForm\obj\Debug\SalesAndInventoryForm.csproj.GenerateResource.Cache
+F:\My Files\Copro 3 Project\FormAndDatabase\SalesAndInventoryForm\SalesAndInventoryForm\obj\Debug\WindowsFormsApplication1.addsales.resources
+D:\RJ FILES\CoproProject\Copro 3 Project\FormAndDatabase\SalesAndInventoryForm\SalesAndInventoryForm\obj\Debug\SalesAndInventoryForm.exe
+D:\RJ FILES\CoproProject\Copro 3 Project\FormAndDatabase\SalesAndInventoryForm\SalesAndInventoryForm\obj\Debug\SalesAndInventoryForm.pdb
+D:\RJ FILES\CoproProject\Copro 3 Project\FormAndDatabase\SalesAndInventoryForm\SalesAndInventoryForm\bin\Debug\SalesAndInventoryForm.exe
+D:\RJ FILES\CoproProject\Copro 3 Project\FormAndDatabase\SalesAndInventoryForm\SalesAndInventoryForm\bin\Debug\SalesAndInventoryForm.pdb
+D:\RJ FILES\CoproProject\Copro 3 Project\FormAndDatabase\SalesAndInventoryForm\SalesAndInventoryForm\obj\Debug\ResolveAssemblyReference.cache
+D:\RJ FILES\CoproProject\Copro 3 Project\FormAndDatabase\SalesAndInventoryForm\SalesAndInventoryForm\obj\Debug\WindowsFormsApplication1.addcust.resources
+D:\RJ FILES\CoproProject\Copro 3 Project\FormAndDatabase\SalesAndInventoryForm\SalesAndInventoryForm\obj\Debug\WindowsFormsApplication1.addsales.resources
+D:\RJ FILES\CoproProject\Copro 3 Project\FormAndDatabase\SalesAndInventoryForm\SalesAndInventoryForm\obj\Debug\WindowsFormsApplication1.AddingSupplier.resources
+D:\RJ FILES\CoproProject\Copro 3 Project\FormAndDatabase\SalesAndInventoryForm\SalesAndInventoryForm\obj\Debug\WindowsFormsApplication1.adminpass.resources
+D:\RJ FILES\CoproProject\Copro 3 Project\FormAndDatabase\SalesAndInventoryForm\SalesAndInventoryForm\obj\Debug\WindowsFormsApplication1.CustomerInformation.resources
+D:\RJ FILES\CoproProject\Copro 3 Project\FormAndDatabase\SalesAndInventoryForm\SalesAndInventoryForm\obj\Debug\WindowsFormsApplication1.Item.resources
+D:\RJ FILES\CoproProject\Copro 3 Project\FormAndDatabase\SalesAndInventoryForm\SalesAndInventoryForm\obj\Debug\WindowsFormsApplication1.Main.resources
+D:\RJ FILES\CoproProject\Copro 3 Project\FormAndDatabase\SalesAndInventoryForm\SalesAndInventoryForm\obj\Debug\WindowsFormsApplication1.Orders.resources
+D:\RJ FILES\CoproProject\Copro 3 Project\FormAndDatabase\SalesAndInventoryForm\SalesAndInventoryForm\obj\Debug\WindowsFormsApplication1.Admin.resources
+D:\RJ FILES\CoproProject\Copro 3 Project\FormAndDatabase\SalesAndInventoryForm\SalesAndInventoryForm\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\RJ FILES\CoproProject\Copro 3 Project\FormAndDatabase\SalesAndInventoryForm\SalesAndInventoryForm\obj\Debug\WindowsFormsApplication1.Reports.resources
+D:\RJ FILES\CoproProject\Copro 3 Project\FormAndDatabase\SalesAndInventoryForm\SalesAndInventoryForm\obj\Debug\WindowsFormsApplication1.Sales.resources
+D:\RJ FILES\CoproProject\Copro 3 Project\FormAndDatabase\SalesAndInventoryForm\SalesAndInventoryForm\obj\Debug\WindowsFormsApplication1.StockCard.resources
+D:\RJ FILES\CoproProject\Copro 3 Project\FormAndDatabase\SalesAndInventoryForm\SalesAndInventoryForm\obj\Debug\WindowsFormsApplication1.InventorySummary.resources
+D:\RJ FILES\CoproProject\Copro 3 Project\FormAndDatabase\SalesAndInventoryForm\SalesAndInventoryForm\obj\Debug\WindowsFormsApplication1.Supplier.resources
+D:\RJ FILES\CoproProject\Copro 3 Project\FormAndDatabase\SalesAndInventoryForm\SalesAndInventoryForm\obj\Debug\WindowsFormsApplication1.UserLogin.resources
+D:\RJ FILES\CoproProject\Copro 3 Project\FormAndDatabase\SalesAndInventoryForm\SalesAndInventoryForm\obj\Debug\SalesAndInventoryForm.csproj.GenerateResource.Cache
+D:\RJ FILES\CoproProject\Copro 3 Project\FormAndDatabase\SalesAndInventoryForm\SalesAndInventoryForm\obj\Debug\WindowsFormsApplication1.addporder.resources
+D:\RJ FILES\CoproProject\Copro 3 Projectfinal\FormAndDatabase\SalesAndInventoryForm\SalesAndInventoryForm\obj\Debug\SalesAndInventoryForm.exe
+D:\RJ FILES\CoproProject\Copro 3 Projectfinal\FormAndDatabase\SalesAndInventoryForm\SalesAndInventoryForm\obj\Debug\SalesAndInventoryForm.pdb
+D:\RJ FILES\CoproProject\Copro 3 Projectfinal\FormAndDatabase\SalesAndInventoryForm\SalesAndInventoryForm\bin\Debug\SalesAndInventoryForm.exe
+D:\RJ FILES\CoproProject\Copro 3 Projectfinal\FormAndDatabase\SalesAndInventoryForm\SalesAndInventoryForm\bin\Debug\SalesAndInventoryForm.pdb
+D:\RJ FILES\CoproProject\Copro 3 Projectfinal\FormAndDatabase\SalesAndInventoryForm\SalesAndInventoryForm\obj\Debug\ResolveAssemblyReference.cache
+D:\RJ FILES\CoproProject\Copro 3 Projectfinal\FormAndDatabase\SalesAndInventoryForm\SalesAndInventoryForm\obj\Debug\WindowsFormsApplication1.addcust.resources
+D:\RJ FILES\CoproProject\Copro 3 Projectfinal\FormAndDatabase\SalesAndInventoryForm\SalesAndInventoryForm\obj\Debug\WindowsFormsApplication1.addporder.resources
+D:\RJ FILES\CoproProject\Copro 3 Projectfinal\FormAndDatabase\SalesAndInventoryForm\SalesAndInventoryForm\obj\Debug\WindowsFormsApplication1.addsales.resources
+D:\RJ FILES\CoproProject\Copro 3 Projectfinal\FormAndDatabase\SalesAndInventoryForm\SalesAndInventoryForm\obj\Debug\WindowsFormsApplication1.AddingSupplier.resources
+D:\RJ FILES\CoproProject\Copro 3 Projectfinal\FormAndDatabase\SalesAndInventoryForm\SalesAndInventoryForm\obj\Debug\WindowsFormsApplication1.adminpass.resources
+D:\RJ FILES\CoproProject\Copro 3 Projectfinal\FormAndDatabase\SalesAndInventoryForm\SalesAndInventoryForm\obj\Debug\WindowsFormsApplication1.CustomerInformation.resources
+D:\RJ FILES\CoproProject\Copro 3 Projectfinal\FormAndDatabase\SalesAndInventoryForm\SalesAndInventoryForm\obj\Debug\WindowsFormsApplication1.Item.resources
+D:\RJ FILES\CoproProject\Copro 3 Projectfinal\FormAndDatabase\SalesAndInventoryForm\SalesAndInventoryForm\obj\Debug\WindowsFormsApplication1.Main.resources
+D:\RJ FILES\CoproProject\Copro 3 Projectfinal\FormAndDatabase\SalesAndInventoryForm\SalesAndInventoryForm\obj\Debug\WindowsFormsApplication1.Orders.resources
+D:\RJ FILES\CoproProject\Copro 3 Projectfinal\FormAndDatabase\SalesAndInventoryForm\SalesAndInventoryForm\obj\Debug\WindowsFormsApplication1.Admin.resources
+D:\RJ FILES\CoproProject\Copro 3 Projectfinal\FormAndDatabase\SalesAndInventoryForm\SalesAndInventoryForm\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\RJ FILES\CoproProject\Copro 3 Projectfinal\FormAndDatabase\SalesAndInventoryForm\SalesAndInventoryForm\obj\Debug\WindowsFormsApplication1.Reports.resources
+D:\RJ FILES\CoproProject\Copro 3 Projectfinal\FormAndDatabase\SalesAndInventoryForm\SalesAndInventoryForm\obj\Debug\WindowsFormsApplication1.Sales.resources
+D:\RJ FILES\CoproProject\Copro 3 Projectfinal\FormAndDatabase\SalesAndInventoryForm\SalesAndInventoryForm\obj\Debug\WindowsFormsApplication1.StockCard.resources
+D:\RJ FILES\CoproProject\Copro 3 Projectfinal\FormAndDatabase\SalesAndInventoryForm\SalesAndInventoryForm\obj\Debug\WindowsFormsApplication1.InventorySummary.resources
+D:\RJ FILES\CoproProject\Copro 3 Projectfinal\FormAndDatabase\SalesAndInventoryForm\SalesAndInventoryForm\obj\Debug\WindowsFormsApplication1.Supplier.resources
+D:\RJ FILES\CoproProject\Copro 3 Projectfinal\FormAndDatabase\SalesAndInventoryForm\SalesAndInventoryForm\obj\Debug\WindowsFormsApplication1.UserLogin.resources
+D:\RJ FILES\CoproProject\Copro 3 Projectfinal\FormAndDatabase\SalesAndInventoryForm\SalesAndInventoryForm\obj\Debug\SalesAndInventoryForm.csproj.GenerateResource.Cache
+F:\Copro 3 Projectfinal\FormAndDatabase\SalesAndInventoryForm\SalesAndInventoryForm\obj\Debug\SalesAndInventoryForm.exe
+F:\Copro 3 Projectfinal\FormAndDatabase\SalesAndInventoryForm\SalesAndInventoryForm\obj\Debug\SalesAndInventoryForm.pdb
+F:\Copro 3 Projectfinal\FormAndDatabase\SalesAndInventoryForm\SalesAndInventoryForm\bin\Debug\SalesAndInventoryForm.exe
+F:\Copro 3 Projectfinal\FormAndDatabase\SalesAndInventoryForm\SalesAndInventoryForm\bin\Debug\SalesAndInventoryForm.pdb
+F:\Copro 3 Projectfinal\FormAndDatabase\SalesAndInventoryForm\SalesAndInventoryForm\obj\Debug\ResolveAssemblyReference.cache
+F:\Copro 3 Projectfinal\FormAndDatabase\SalesAndInventoryForm\SalesAndInventoryForm\obj\Debug\WindowsFormsApplication1.addcust.resources
+F:\Copro 3 Projectfinal\FormAndDatabase\SalesAndInventoryForm\SalesAndInventoryForm\obj\Debug\WindowsFormsApplication1.addporder.resources
+F:\Copro 3 Projectfinal\FormAndDatabase\SalesAndInventoryForm\SalesAndInventoryForm\obj\Debug\WindowsFormsApplication1.addsales.resources
+F:\Copro 3 Projectfinal\FormAndDatabase\SalesAndInventoryForm\SalesAndInventoryForm\obj\Debug\WindowsFormsApplication1.AddingSupplier.resources
+F:\Copro 3 Projectfinal\FormAndDatabase\SalesAndInventoryForm\SalesAndInventoryForm\obj\Debug\WindowsFormsApplication1.adminpass.resources
+F:\Copro 3 Projectfinal\FormAndDatabase\SalesAndInventoryForm\SalesAndInventoryForm\obj\Debug\WindowsFormsApplication1.CustomerInformation.resources
+F:\Copro 3 Projectfinal\FormAndDatabase\SalesAndInventoryForm\SalesAndInventoryForm\obj\Debug\WindowsFormsApplication1.Item.resources
+F:\Copro 3 Projectfinal\FormAndDatabase\SalesAndInventoryForm\SalesAndInventoryForm\obj\Debug\WindowsFormsApplication1.Main.resources
+F:\Copro 3 Projectfinal\FormAndDatabase\SalesAndInventoryForm\SalesAndInventoryForm\obj\Debug\WindowsFormsApplication1.Orders.resources
+F:\Copro 3 Projectfinal\FormAndDatabase\SalesAndInventoryForm\SalesAndInventoryForm\obj\Debug\WindowsFormsApplication1.Admin.resources
+F:\Copro 3 Projectfinal\FormAndDatabase\SalesAndInventoryForm\SalesAndInventoryForm\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+F:\Copro 3 Projectfinal\FormAndDatabase\SalesAndInventoryForm\SalesAndInventoryForm\obj\Debug\WindowsFormsApplication1.Reports.resources
+F:\Copro 3 Projectfinal\FormAndDatabase\SalesAndInventoryForm\SalesAndInventoryForm\obj\Debug\WindowsFormsApplication1.Sales.resources
+F:\Copro 3 Projectfinal\FormAndDatabase\SalesAndInventoryForm\SalesAndInventoryForm\obj\Debug\WindowsFormsApplication1.StockCard.resources
+F:\Copro 3 Projectfinal\FormAndDatabase\SalesAndInventoryForm\SalesAndInventoryForm\obj\Debug\WindowsFormsApplication1.InventorySummary.resources
+F:\Copro 3 Projectfinal\FormAndDatabase\SalesAndInventoryForm\SalesAndInventoryForm\obj\Debug\WindowsFormsApplication1.Supplier.resources
+F:\Copro 3 Projectfinal\FormAndDatabase\SalesAndInventoryForm\SalesAndInventoryForm\obj\Debug\WindowsFormsApplication1.UserLogin.resources
+F:\Copro 3 Projectfinal\FormAndDatabase\SalesAndInventoryForm\SalesAndInventoryForm\obj\Debug\SalesAndInventoryForm.csproj.GenerateResource.Cache
+F:\ \Copro 3 Projectfinal\FormAndDatabase\SalesAndInventoryForm\SalesAndInventoryForm\obj\Debug\SalesAndInventoryForm.exe
+F:\ \Copro 3 Projectfinal\FormAndDatabase\SalesAndInventoryForm\SalesAndInventoryForm\obj\Debug\SalesAndInventoryForm.pdb
+G:\Copro 3 Projectfinal\FormAndDatabase\SalesAndInventoryForm\SalesAndInventoryForm\obj\Debug\SalesAndInventoryForm.exe
+G:\Copro 3 Projectfinal\FormAndDatabase\SalesAndInventoryForm\SalesAndInventoryForm\obj\Debug\SalesAndInventoryForm.pdb
+G:\Copro 3 Projectfinal\FormAndDatabase\SalesAndInventoryForm\SalesAndInventoryForm\bin\Debug\SalesAndInventoryForm.exe
+G:\Copro 3 Projectfinal\FormAndDatabase\SalesAndInventoryForm\SalesAndInventoryForm\bin\Debug\SalesAndInventoryForm.pdb
+G:\Copro 3 Projectfinal\FormAndDatabase\SalesAndInventoryForm\SalesAndInventoryForm\obj\Debug\ResolveAssemblyReference.cache
+G:\Copro 3 Projectfinal\FormAndDatabase\SalesAndInventoryForm\SalesAndInventoryForm\obj\Debug\WindowsFormsApplication1.addcust.resources
+G:\Copro 3 Projectfinal\FormAndDatabase\SalesAndInventoryForm\SalesAndInventoryForm\obj\Debug\WindowsFormsApplication1.addporder.resources
+G:\Copro 3 Projectfinal\FormAndDatabase\SalesAndInventoryForm\SalesAndInventoryForm\obj\Debug\WindowsFormsApplication1.addsales.resources
+G:\Copro 3 Projectfinal\FormAndDatabase\SalesAndInventoryForm\SalesAndInventoryForm\obj\Debug\WindowsFormsApplication1.AddingSupplier.resources
+G:\Copro 3 Projectfinal\FormAndDatabase\SalesAndInventoryForm\SalesAndInventoryForm\obj\Debug\WindowsFormsApplication1.adminpass.resources
+G:\Copro 3 Projectfinal\FormAndDatabase\SalesAndInventoryForm\SalesAndInventoryForm\obj\Debug\WindowsFormsApplication1.CustomerInformation.resources
+G:\Copro 3 Projectfinal\FormAndDatabase\SalesAndInventoryForm\SalesAndInventoryForm\obj\Debug\WindowsFormsApplication1.Item.resources
+G:\Copro 3 Projectfinal\FormAndDatabase\SalesAndInventoryForm\SalesAndInventoryForm\obj\Debug\WindowsFormsApplication1.Main.resources
+G:\Copro 3 Projectfinal\FormAndDatabase\SalesAndInventoryForm\SalesAndInventoryForm\obj\Debug\WindowsFormsApplication1.Orders.resources
+G:\Copro 3 Projectfinal\FormAndDatabase\SalesAndInventoryForm\SalesAndInventoryForm\obj\Debug\WindowsFormsApplication1.Admin.resources
+G:\Copro 3 Projectfinal\FormAndDatabase\SalesAndInventoryForm\SalesAndInventoryForm\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+G:\Copro 3 Projectfinal\FormAndDatabase\SalesAndInventoryForm\SalesAndInventoryForm\obj\Debug\WindowsFormsApplication1.Reports.resources
+G:\Copro 3 Projectfinal\FormAndDatabase\SalesAndInventoryForm\SalesAndInventoryForm\obj\Debug\WindowsFormsApplication1.Sales.resources
+G:\Copro 3 Projectfinal\FormAndDatabase\SalesAndInventoryForm\SalesAndInventoryForm\obj\Debug\WindowsFormsApplication1.StockCard.resources
+G:\Copro 3 Projectfinal\FormAndDatabase\SalesAndInventoryForm\SalesAndInventoryForm\obj\Debug\WindowsFormsApplication1.InventorySummary.resources
+G:\Copro 3 Projectfinal\FormAndDatabase\SalesAndInventoryForm\SalesAndInventoryForm\obj\Debug\WindowsFormsApplication1.Supplier.resources
+G:\Copro 3 Projectfinal\FormAndDatabase\SalesAndInventoryForm\SalesAndInventoryForm\obj\Debug\WindowsFormsApplication1.UserLogin.resources
+G:\Copro 3 Projectfinal\FormAndDatabase\SalesAndInventoryForm\SalesAndInventoryForm\obj\Debug\SalesAndInventoryForm.csproj.GenerateResource.Cache
+C:\Users\Damiel\Desktop\Copro 3 Projectfinal\FormAndDatabase\SalesAndInventoryForm\SalesAndInventoryForm\obj\Debug\SalesAndInventoryForm.exe
+C:\Users\Damiel\Desktop\Copro 3 Projectfinal\FormAndDatabase\SalesAndInventoryForm\SalesAndInventoryForm\obj\Debug\SalesAndInventoryForm.pdb
